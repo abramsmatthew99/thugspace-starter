@@ -33,3 +33,10 @@ code {
   justify-content: center;
   align-items: center;
 }
+
+.banner {
+  background-color: purple;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}

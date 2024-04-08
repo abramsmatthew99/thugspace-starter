@@ -9,7 +9,9 @@ export default function Home() {
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
+      <div className="banner">
+        Testing
+      </div>
       <main>
         <Header title="Welcome to Thugspace!" />
         <p className="description">
